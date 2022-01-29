@@ -1,12 +1,3 @@
-# Tools
-
-* DevToys
-* DnSpy
-* ILSpy
-* LINQPad
-* MSBuild Binary and Structured Log Viewer
-* PerfView
-
 # .NET Global Tools
 
 * amazon.lambda.testtool-3.1
@@ -44,3 +35,13 @@
 * Inlining Analyzer
 * SolutionColor
 * T4 ?
+
+# Tools
+
+* LINQPad
+* DevToys
+* DnSpy
+* ILSpy
+* MSBuild Binary and Structured Log Viewer
+* PerfView
+
