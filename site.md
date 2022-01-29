@@ -1,15 +1,5 @@
 # Web site
 
-## Code Snippets
-
-* [ShapLab](https://sharplab.io/)
-* [Search C#](https://csharp.hotexamples.com/)
-
-## Guide
-
-* [AspNetCoreGuidance](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AspNetCoreGuidance.md)
-* [Async Guidance](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md)
-
 ## Awesome
 
 * [.NET Core](https://github.com/thangchung/awesome-dotnet-core)
@@ -20,3 +10,14 @@
 * [Analyzers](https://github.com/Cybermaxs/awesome-analyzers)
 * [Async](https://github.com/mehdihadeli/awesome-dotnet-async)
 * [Performance](https://github.com/adamsitnik/awesome-dot-net-performance)
+
+## Code Snippets
+
+* [ShapLab](https://sharplab.io/)
+* [Hot Examples](https://csharp.hotexamples.com/)
+* [CSharpCodi](https://www.csharpcodi.com/)
+
+## Guide
+
+* [AspNetCoreGuidance](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AspNetCoreGuidance.md)
+* [Async Guidance](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md)
